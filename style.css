@@ -8,17 +8,21 @@ h1 { font-size: 60px;
 h2 { font-size: 40px;
 
 }
-.ishu{ color: limegreen;
+.ishu{ color: tomato;
 
 }
 p {font-size: 20px;
 
 }
 section{ display: flex;
+         margin-bottom: 150px;
 
 }
 .half-width { width:50%;
              padding-left: 5%;
+             padding-right: 8%;
+             
+             
 
 }
 .half-width img { width: 80%;
@@ -27,7 +31,7 @@ section{ display: flex;
 .rat{ color: lightseagreen;
 
 }
-.pot{ color:goldenrod;
+.pot{ color: orange;
 
 }
 .op{    color:seashell   ;
@@ -42,5 +46,9 @@ section{ display: flex;
              background-repeat:no-repeat;
 
 }
+.dream-big{ background-image: url(images/dream-bg.png);
+            background-repeat:no-repeat;
+            background-position: right ;
 
+}
 
