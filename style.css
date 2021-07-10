@@ -51,5 +51,35 @@ p {font-size: 20px;
             background-position:right ;
 
 }
+.orange-color{ color: orange;
 
+}
+.fresh{ width:60%;
+      padding-left: 2%;
+      padding-right: 5%;
+      margin-left: 6%;
+      margin-right: 5%;
+      box-shadow: 10px 20px 50px gray;
+      border-radius: 20px;
+
+}
+.size{font-size: 33px;
+
+}
+.experience{ background-image:url(images/exp-bg.png);
+            background-repeat: no-repeat;
+            background-position:left;
+            background-size: 120px;
+
+}
+#ratul-ishrat{ border-left: 10px solid;
+               border-image:linear-gradient(salmon, tomato);
+               border-image-slice: 2;
+
+} 
+#mahrat-store{ border-left: 10px solid;
+               border-image:linear-gradient(rgb(68, 120, 218), cyan);
+               border-image-slice: 2;
+
+}
 
